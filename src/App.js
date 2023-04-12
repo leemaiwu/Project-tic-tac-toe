@@ -15,6 +15,7 @@ function App() {
 
   return (
     <div className="App">
+      <h1 className="title">Play Tic Tac Toe!</h1>
         <button className="reset-button" onClick={handleClick}>Reset</button>
         <div className="container">
           {squares.map((value, index) => {
