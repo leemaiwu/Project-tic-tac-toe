@@ -1,20 +1,15 @@
 # Tic-Tac-Toe
 
-Welcome to my Tic-Tac-Toe web app!
+Tic-Tac-Toe is a web app that allows two players to play Tic-Tac-Toe against each other on a 3x3 board. The app was built using React and bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ![Tic Tac Toe Game](https://github.com/leemaiwu/Project-tic-tac-toe/blob/main/ReadMe_img/tic-tac-toe-home.png?raw=true)
 
-The app allows 2 users to play Tic-Tac-Toe against each other on a 3x3 board.
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## How to Use the App
 
-## Play it yourself!
-
-Clone or download the project.
-Navigate to the directory containing the code and run the following terminal commands
-
-`npm install`
-
-`npm start`
+1. Clone or download the project.
+2. Navigate to the directory containing the code and run `npm install` to install all the dependencies.
+3. Run `npm start` to start the app.
+4. Open your browser and navigate to `http://localhost:3000` to use the app.
 
 ## Features
 
@@ -33,6 +28,13 @@ If you encounter any issues while running the app, try the following:
 - If the app fails to start, check the console for any error messages.
 - If you're still having issues, feel free to open an issue on the GitHub repository.
 
+The following dependencies are required to run this project:
+
+- React
+- React DOM
+- Create React App
+
+To install the dependencies, run `npm install`.
 
 ## Author
 
