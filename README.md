@@ -34,8 +34,6 @@ The following dependencies are required to run this project:
 - React DOM
 - Create React App
 
-To install the dependencies, run `npm install`.
-
 ## Author
 
 Laura Wu
